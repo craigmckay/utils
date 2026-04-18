@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 pdf_bookmark.py
 
@@ -8,14 +9,9 @@ configure the PDF's open-view preferences:
     - Page layout: One page at a time   (/SinglePage)
     - Zoom:        Fit to page          (/Fit)
 
-Usage:
-    python pdf_bookmark.py INPUT.pdf [OUTPUT.pdf]
 
-If OUTPUT.pdf is omitted, the script writes alongside the input as
-    <stem>_bookmarked.pdf
+python pdf_bookmark.py "C:\Users\craig\Dropbox\Christian\Ministry\AWiiS\230\May 26 - A5F.pdf" "C:\Users\craig\Dropbox\Christian\Ministry\AWiiS\230\awiis_230.pdf" --title "A Word in its Season 230 - May 2026" --author "Various"
 
-Requires:
-    pip install pypdf pdfplumber
 """
 
 from __future__ import annotations
@@ -70,7 +66,7 @@ def find_bold_upper_paragraphs(pdf_path: Path) -> List[Tuple[int, str]]:
 
     with pdfplumber.open(str(pdf_path)) as pdf:
         for page_index, page in enumerate(pdf.pages):
-            # Page 1 is the cover page — never carries real article headings.
+            # Page 1 is the cover page -- never carries real article headings.
             if page_index == 0:
                 continue
             chars = page.chars
@@ -124,6 +120,8 @@ def build_output_pdf(
     input_path: Path,
     output_path: Path,
     bookmarks: List[Tuple[int, str]],
+    pdf_title: str | None = None,
+    pdf_author: str | None = None,
 ) -> None:
     """Clone the input PDF, add bookmarks, and set the open-view options."""
     reader = PdfReader(str(input_path))
@@ -140,12 +138,12 @@ def build_output_pdf(
     # --- Bookmarks (outline entries) -------------------------------------
     # Each bookmark uses a /Fit destination so it lands at "Fit page" zoom
     # on the target page.
-    for page_index, title in bookmarks:
+    for page_index, bm_title in bookmarks:
         if 0 <= page_index < len(writer.pages):
             writer.add_outline_item(
-                title=title,
+                title=bm_title,
                 page_number=page_index,
-                fit=Fit.fit(),  # /Fit — whole page fits in the window
+                fit=Fit.fit(),  # /Fit -- whole page fits in the window
             )
 
     # --- Viewer preferences ----------------------------------------------
@@ -159,9 +157,27 @@ def build_output_pdf(
     if len(writer.pages) > 0:
         from pypdf.generic import ArrayObject
         first_page_ref = writer.pages[0].indirect_reference
-        # OpenAction array: [ page /Fit ]  — "fit the whole page in the window"
+        # OpenAction array: [ page /Fit ] -- "fit the whole page in the window"
         open_action = ArrayObject([first_page_ref, NameObject("/Fit")])
         writer._root_object[NameObject("/OpenAction")] = open_action
+
+    # --- Document metadata -----------------------------------------------
+    if pdf_title is not None or pdf_author is not None:
+        from pypdf.generic import create_string_object
+
+        # Update the /Info dictionary (traditional PDF metadata).
+        info = writer._info.get_object()
+        if pdf_title is not None:
+            info[NameObject("/Title")] = create_string_object(pdf_title)
+            print("Title:  " + pdf_title)
+        if pdf_author is not None:
+            info[NameObject("/Author")] = create_string_object(pdf_author)
+            print("Author: " + pdf_author)
+
+        # PDF viewers (Acrobat, etc.) prefer XMP over /Info when both exist.
+        # Remove any embedded XMP stream so our /Info values are used.
+        if NameObject("/Metadata") in writer._root_object:
+            del writer._root_object[NameObject("/Metadata")]
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with output_path.open("wb") as fh:
@@ -187,6 +203,16 @@ def main(argv: list[str] | None = None) -> int:
         nargs="?",
         help="Output PDF file (default: <input>_bookmarked.pdf)",
     )
+    parser.add_argument(
+        "--title",
+        metavar="TEXT",
+        help="Set the PDF Title metadata property",
+    )
+    parser.add_argument(
+        "--author",
+        metavar="TEXT",
+        help="Set the PDF Author metadata property",
+    )
     args = parser.parse_args(argv)
 
     input_path: Path = args.input
@@ -208,10 +234,16 @@ def main(argv: list[str] | None = None) -> int:
               "view options set but no bookmarks.")
     else:
         print(f"Found {len(bookmarks)} bookmark(s):")
-        for page_index, title in bookmarks:
-            print(f"  p.{page_index + 1}: {title}")
+        for page_index, bm_title in bookmarks:
+            print(f"  p.{page_index + 1}: {bm_title}")
 
-    build_output_pdf(input_path, output_path, bookmarks)
+    build_output_pdf(
+        input_path,
+        output_path,
+        bookmarks,
+        pdf_title=args.title,
+        pdf_author=args.author,
+    )
     print(f"\nWrote: {output_path}")
     return 0
 
