@@ -1,18 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-pdf_bookmark.py
-
-Add bookmarks to a PDF based on every BOLD + UPPERCASE paragraph, and
-configure the PDF's open-view preferences:
-    - Page mode:   Bookmarks + content  (/UseOutlines)
-    - Page layout: One page at a time   (/SinglePage)
-    - Zoom:        Fit to page          (/Fit)
-
-
-python pdf_bookmark.py "C:\Users\craig\Dropbox\Christian\Ministry\AWiiS\230\May 26 - A5F.pdf" "C:\Users\craig\Dropbox\Christian\Ministry\AWiiS\230\awiis_230.pdf" --title "A Word in its Season 230 - May 2026" --author "Various"
-
-"""
+#
+#pdf_bookmark.py
+#
+#Add bookmarks to a PDF based on every BOLD + UPPERCASE paragraph, and
+#configure the PDF's open-view preferences:
+#    - Page mode:   Bookmarks + content  (/UseOutlines)
+#    - Page layout: One page at a time   (/SinglePage)
+#    - Zoom:        Fit to page          (/Fit)
+#
+#python pdf_bookmark.py "C:\Users\craig\Dropbox\Christian\Ministry\AWiiS\230\May 26 - A5F.pdf" "C:\Users\craig\Dropbox\Christian\Ministry\AWiiS\230\awiis_230.pdf" --title "A Word in its Season 230 - May 2026" --author "Various"
 
 from __future__ import annotations
 

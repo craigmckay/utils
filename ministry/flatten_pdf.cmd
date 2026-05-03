@@ -1,0 +1,1 @@
+gswin64c -dBATCH -dNOPAUSE -dSAFER -sDEVICE=pdfwrite -dCompatibilityLevel=1.7 -dPDFSETTINGS=/ebook -sOutputFile="Clean.pdf" "A Word in its Season 025 - Apr - Various.pdf"

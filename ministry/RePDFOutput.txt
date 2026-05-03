@@ -1,0 +1,2990 @@
+C:\Dev\utils\ministry>python calibre_repdf.py
+Calibre library : C:\Users\craig\Calibre Library
+Bookmark script : c:\dev\utils\ministry\pdf_bookmark.py
+Ghostscript     : gswin64c
+
+Found 148 book(s) to process:
+  • A Word in its Season 026 - May 2009  (Various)
+  • A Word in its Season 027 - Jun 2009  (Various)
+  • A Word in its Season 029 - Aug 2009  (Various)
+  • A Word in its Season 030 - Sep 2009  (Various)
+  • A Word in its Season 031 - Oct 2009  (Various)
+  • A Word in its Season 032 - Nov 2009  (Various)
+  • A Word in its Season 033 - Dec 2009  (Various)
+  • A Word in its Season 034 - Jan 2010  (Various)
+  • A Word in its Season 035 - Feb 2010  (Various)
+  • A Word in its Season 036 - Mar 2010  (Various)
+  • A Word in its Season 037 - April 2010  (Various)
+  • A Word in its Season 038 - May 2010  (Various)
+  • A Word in its Season 039 - June 2010  (Various)
+  • A Word in its Season 040 - Jul 2010  (Various)
+  • A Word in its Season 041 - Aug 2010  (Various)
+  • A Word in its Season 042 - Sept 2010  (Various)
+  • A Word in its Season 043 - Oct 2010  (Various)
+  • A Word in its Season 044 - Nov 2010  (Various)
+  • A Word in its Season 045 - Dec 2010  (Various)
+  • A Word in its Season 046 - Jan 2011  (Various)
+  • A Word in its Season 047 - Feb 2011  (Various)
+  • A Word in its Season 048 - Mar 2011  (Various)
+  • A Word in its Season 049 - Apr 2011  (Various)
+  • A Word in its Season 050 - May 2011  (Various)
+  • A Word in its Season 051 - Jun 2011  (Various)
+  • A Word in its Season 052 - Jul 2011  (Various)
+  • A Word in its Season 053 - Aug 2011  (Various)
+  • A Word in its Season 054 - Sep 2011  (Various)
+  • A Word in its Season 055 - Oct 2011  (Various)
+  • A Word in its Season 056 - Nov 2011  (Various)
+  • A Word in its Season 057 - Dec 2011  (Various)
+  • A Word in its Season 058 - Jan 2012  (Various)
+  • A Word in its Season 059 - Feb 2012  (Various)
+  • A Word in its Season 060 - Mar 2012  (Various)
+  • A Word in its Season 061 - Apr 2012  (Various)
+  • A Word in its Season 062 - May 2012  (Various)
+  • A Word in its Season 063 - Jun 2012  (Various)
+  • A Word in its Season 064 - Jul 2012  (Various)
+  • A Word in its Season 065 - Aug 2012  (Various)
+  • A Word in its Season 066 - Sep 2012  (Various)
+  • A Word in its Season 067 - Oct 2012  (Various)
+  • A Word in its Season 068 - Nov 2012  (Various)
+  • A Word in its Season 069 - Dec 2012  (Various)
+  • A Word in its Season 070 - Jan 2013  (Various)
+  • A Word in its Season 071 - Feb 2013  (Various)
+  • A Word in its Season 072 - Mar 2013  (Various)
+  • A Word in its Season 073 - Apr 2013  (Various)
+  • A Word in its Season 074 - May 2013  (Various)
+  • A Word in its Season 075 - Jun 2013  (Various)
+  • A Word in its Season 076 - Jul 2013  (Various)
+  • A Word in its Season 077 - Aug 2013  (Various)
+  • A Word in its Season 078 - Sep 2013  (Various)
+  • A Word in its Season 079 - Oct 2013  (Various)
+  • A Word in its Season 080 - Nov 2013  (Various)
+  • A Word in its Season 081 - Dec 2013  (Various)
+  • A Word in its Season 082 - Jan 2014  (Various)
+  • A Word in its Season 083 - Feb 2014  (Various)
+  • A Word in its Season 084 - Mar 2014  (Various)
+  • A Word in its Season 085 - Apr 2014  (Various)
+  • A Word in its Season 086 - May 2014  (Various)
+  • A Word in its Season 087 - Jun 2014  (Various)
+  • A Word in its Season 088 - Jul 2014  (Various)
+  • A Word in its Season 089 - Aug 2014  (Various)
+  • A Word in its Season 090 - Sep 2014  (Various)
+  • A Word in its Season 091 - Oct 2014  (Various)
+  • A Word in its Season 092 - Nov 2014  (Various)
+  • A Word in its Season 093 - Dec 2014  (Various)
+  • A Word in its Season 094 - Jan 2015  (Various)
+  • A Word in its Season 095 - Feb 2015  (Various)
+  • A Word in its Season 096 - Mar 2015  (Various)
+  • A Word in its Season 097 - Apr 2015  (Various)
+  • A Word in its Season 098 - May 2015  (Various)
+  • A Word in its Season 099 - Jun 2015  (Various)
+  • A Word in its Season 100 - July 2015  (Various)
+  • A Word in its Season 101 - Aug 2015  (Various)
+  • A Word in its Season 102 - Sept 2015  (Various)
+  • A Word in its Season 103 - Oct 2015  (Various)
+  • A Word in its Season 104 - Nov 2015  (Various)
+  • A Word in its Season 105 - Dec 2015  (Various)
+  • A Word in its Season 106 - Jan 2016  (Various)
+  • A Word in its Season 107 - Feb 2016  (Various)
+  • A Word in its Season 108 - Mar 2016  (Various)
+  • A Word in its Season 109 - Apr 2016  (Various)
+  • A Word in its Season 110 - May 2016  (Various)
+  • A Word in its Season 111 - Jun 2016  (Various)
+  • A Word in its Season 112 - Jul 2016  (Various)
+  • A Word in its Season 113 - Aug 2016  (Various)
+  • A Word in its Season 114 - Sep 2016  (Various)
+  • A Word in its Season 115 - Oct 2016  (Various)
+  • A Word in its Season 116 - Nov 2016  (Various)
+  • A Word in its Season 117 - Dec 2016  (Various)
+  • A Word in its Season 118 - Jan 2017  (Various)
+  • A Word in its Season 119 - Feb 2017  (Various)
+  • A Word in its Season 120 - Mar 2017  (Various)
+  • A Word in its Season 133 - Apr 2018  (Various)
+  • A Word in its Season 134 - May 2018  (Various)
+  • A Word in its Season 135 - Jun 2018  (Various)
+  • A Word in its Season 136 - Jul 2018  (Various)
+  • A Word in its Season 137 - Aug 2018  (Various)
+  • A Word in its Season 138 - Sep 2018  (Various)
+  • A Word in its Season 139 - Oct 2018  (Various)
+  • A Word in its Season 140 - Nov 2018  (Various)
+  • A Word in its Season 141 - Dec 2018  (Various)
+  • A Word in its Season 142 - Jan 2019  (Various)
+  • A Word in its Season 143 - Feb 2019  (Various)
+  • A Word in its Season 144 - Mar 2019  (Various)
+  • A Word in its Season 145 - Apr 2019  (Various)
+  • A Word in its Season 146 - May 2019  (Various)
+  • A Word in its Season 147 - Jun 20`9  (Various)
+  • A Word in its Season 148 - July 2019  (Various)
+  • A Word in its Season 149 - Aug 2019  (Various)
+  • A Word in its Season 150 - Sept 2019  (Various)
+  • A Word in its Season 151 - Oct 2019  (Various)
+  • A Word in its Season 152 - Nov 2019  (Various)
+  • A Word in its Season 153 - Dec 2019  (Various)
+  • A Word in its Season 154 - Jan 2020  (Various)
+  • A Word in its Season 155 - Feb 2020  (Various)
+  • A Word in its Season 156 - Mar 2020  (Various)
+  • A Word in its Season 157 - Apr 2020  (Various)
+  • A Word in its Season 158 - May 2020  (Various)
+  • A Word in its Season 159 - Jun 2020  (Various)
+  • A Word in its Season 160 - Jul 2020  (Various)
+  • A Word in its Season 161 - Aug 2020  (Various)
+  • A Word in its Season 162- Sept 2020  (Various)
+  • A Word in its Season 163 - Oct 2020  (Various)
+  • A Word in its Season 164 - Nov 2020  (Various)
+  • A Word in its Season 165 - Dec 2020  (Various)
+  • A Word in its Season 166 - Jan 2021  (Various)
+  • A Word in its Season 167 - Feb 2021  (Various)
+  • A Word in its Season 168 - Mar 2021  (Various)
+  • A Word in its Season 169 - Apr 2021  (Various)
+  • A Word in its Season 171 - Jun 2021  (Various)
+  • A Word in its Season 172 - Jul 2021  (Various)
+  • A Word in its Season 173 - Aug 2021  (Various)
+  • A Word in its Season 174 - Sep 2021  (Various)
+  • A Word in its Season 175 - Oct 2021  (Various)
+  • A Word in its Season 176 - Nov 2021  (Various)
+  • A Word in its Season 177 - Dec 2021  (Various)
+  • A Word in its Season 178 - Jan 2022  (Various)
+  • A Word in its Season 179 - Feb 2022  (Various)
+  • A Word in its Season 180 - Mar 2022  (Various)
+  • A Word in its Season 181 - Apr 2022  (Various)
+  • A Word in its Season 182 - May 2022  (Various)
+  • A Word in its Season 183 - Jun 2022  (Various)
+  • A Word in its Season 184 - Jul 2022  (Various)
+  • A Word in its Season 185 - Aug 2022  (Various)
+  • A Word in its Season 186 - Sept 2022  (Various)
+  • A Word in its Season 187 - Oct 2022  (Various)
+
+============================================================
+Book:   A Word in its Season 026 - May - Various.pdf
+Title:  A Word in its Season 026 - May 2009
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpkfn77swp.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: FAITH
+  p.17: FATHERLINESS
+  p.23: BELONGING TO GOD
+  p.26: “DO YE KNOW WHAT I HAVE DONE TO YOU?”
+  p.30: “THE LORD HAS NEED OF THEM”
+Title:  A Word in its Season 026 - May 2009
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 026 - May 2009 (492)\A Word in its Season 026 - May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 027 - Jun - Various.pdf
+Title:  A Word in its Season 027 - Jun 2009
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpzk4n005x.pdf for bold uppercase paragraphs...
+Found 6 bookmark(s):
+  p.2: CONTINUANCE
+  p.8: “SOMEWHAT TO SAY TO THEE”
+  p.17: REPENTANCE
+  p.24: JORDAN TURNED BACK
+  p.26: BY HIM, IN HIM, TO HIM, WITH HIM
+  p.30: WHAT IS BY, THROUGH, AND IN CHRIST
+Title:  A Word in its Season 027 - Jun 2009
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 027 - Jun 2009 (490)\A Word in its Season 027 - Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 029 - Aug - Various.pdf
+Title:  A Word in its Season 029 - Aug 2009
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpcl535wpb.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: GOD'S PRIMARY THOUGHTS
+  p.18: TITLES OF JESUS
+  p.25: THE KNOWLEDGE OF GOD
+  p.29: CONTINUANCE
+Title:  A Word in its Season 029 - Aug 2009
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 029 - Aug 2009 (488)\A Word in its Season 029 - Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 030 - Sep - Various.pdf
+Title:  A Word in its Season 030 - Sep 2009
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpvl7_2h34.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE BODY
+  p.21: WHAT GOD WILL SHOW US
+  p.30: FELLOWSHIP AND THE BODY
+Title:  A Word in its Season 030 - Sep 2009
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 030 - Sep 2009 (487)\A Word in its Season 030 - Sep - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 031 - Oct - Various.pdf
+Title:  A Word in its Season 031 - Oct 2009
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpu2klyl96.pdf for bold uppercase paragraphs...
+Found 2 bookmark(s):
+  p.2: WHAT WE VALUE
+  p.23: THE CONTINUANCE OF THE TESTIMONY
+Title:  A Word in its Season 031 - Oct 2009
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 031 - Oct 2009 (486)\A Word in its Season 031 - Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 032 - Nov - Various.pdf
+Title:  A Word in its Season 032 - Nov 2009
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp44dv3xac.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: SAFE AND WELL
+  p.9: THREE QUESTIONS
+  p.16: THE LORD JESUS AS SHEPHERD, NEIGHBOUR AND FRIEND
+  p.26: THE LORD JESUS AS A BUILDER
+Title:  A Word in its Season 032 - Nov 2009
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 032 - Nov 2009 (485)\A Word in its Season 032 - Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 033 - Dec - Various.pdf
+Title:  A Word in its Season 033 - Dec 2009
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp5o677tbq.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE FATHER SEEKS WORSHIPPERS
+  p.19: THE MAN OF ISAIAH 53
+  p.26: THE LORD JESUS AS SHEPHERD, NEIGHBOUR AND FRIEND
+Title:  A Word in its Season 033 - Dec 2009
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 033 - Dec 2009 (484)\A Word in its Season 033 - Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 034 - Jan - Various.pdf
+Title:  A Word in its Season 034 - Jan 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpb2eq8xhb.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE WILL OF GOD
+  p.22: BEING IN THE RECOVERY
+  p.26: SPIRITUAL REFINEMENT
+  p.31: THE BOSOM AND BREAST OF JESUS
+Title:  A Word in its Season 034 - Jan 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 034 - Jan 2010 (483)\A Word in its Season 034 - Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 035 - Feb - Various.pdf
+Title:  A Word in its Season 035 - Feb 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpr_tsn1oe.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE LORD'S SUPPER
+  p.17: STEADINESS
+  p.22: THE BELIEVER’S PORTION
+  p.25: SACRIFICIAL LOVE
+  p.29: CONSISTENCY AND STEADINESS
+Title:  A Word in its Season 035 - Feb 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 035 - Feb 2010 (482)\A Word in its Season 035 - Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 036 - Mar - Various.pdf
+Title:  A Word in its Season 036 - Mar 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpvk55rh16.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE HOLY SPIRIT
+  p.19: THE LOVE OF JESUS
+  p.26: THE POWER AND LOVE OF JESUS
+  p.28: WHAT DEATH IS
+Title:  A Word in its Season 036 - Mar 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 036 - Mar 2010 (481)\A Word in its Season 036 - Mar - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 037 - Apri - Various.pdf
+Title:  A Word in its Season 037 - April 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpxclzn5zw.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE RESULTS OF THE HOLY SPIRIT'S ACTIVITIES
+  p.17: DIVINE NECESSITIES
+  p.23: THE RESURRECTION OF THE LORD JESUS
+  p.28: HE THAT  MIGHT HAVE THE FIRST PLACE IN ALL THINGS
+  p.30: “TO SUCCOUR WITH A WORD”
+Title:  A Word in its Season 037 - April 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 037 - April 20 (480)\A Word in its Season 037 - Apri - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 038 - May - Various.pdf
+Title:  A Word in its Season 038 - May 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp_t_g80ph.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE PRACTICE OF PRIESTHOOD
+  p.20: “A CERTAIN SAMARITAN”
+  p.25: “A JUST GOD AND A SAVIOUR”
+Title:  A Word in its Season 038 - May 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 038 - May 2010 (479)\A Word in its Season 038 - May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 039 - June - Various.pdf
+Title:  A Word in its Season 039 - June 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp51i7_5fp.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE RENEWAL OF THE HOLY SPIRIT
+  p.22: REAPING
+  p.28: LOOKING ON JESUS
+Title:  A Word in its Season 039 - June 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 039 - June 201 (478)\A Word in its Season 039 - June - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 040 - Jul - Various.pdf
+Title:  A Word in its Season 040 - Jul 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpf_s4kprt.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE WORK OF THE HOLY SPIRIT
+  p.18: WAITING FOR THE LORD
+  p.30: CHRIST AS THE STONE
+Title:  A Word in its Season 040 - Jul 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 040 - Jul 2010 (476)\A Word in its Season 040 - Jul - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 041 - Aug - Various.pdf
+Title:  A Word in its Season 041 - Aug 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp_bdsae7c.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE ENJOYMENT OF FELLOWSHIP
+  p.18: THE FELLOWSHIP OF THE SPIRIT
+  p.25: HEARTS
+  p.30: ASSEMBLY CONDUCT
+Title:  A Word in its Season 041 - Aug 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 041 - Aug 2010 (477)\A Word in its Season 041 - Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 042 - Sept - Various.pdf
+Title:  A Word in its Season 042 - Sept 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpftsyjhkn.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: LIVING STONES
+  p.23: THE FOURTH WATCH
+  p.30: PREPARATION
+Title:  A Word in its Season 042 - Sept 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 042 - Sept 201 (475)\A Word in its Season 042 - Sept - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 043 - Oct - Various.pdf
+Title:  A Word in its Season 043 - Oct 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpj7ybvf15.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: PRAISE
+  p.17: SUFFERING
+  p.25: GIVING CHRIST HIS TRUE PLACE
+  p.31: APPRECIATION OF THE HEAVENLY VISION
+Title:  A Word in its Season 043 - Oct 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 043 - Oct 2010 (474)\A Word in its Season 043 - Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 044 - Nov - Various.pdf
+Title:  A Word in its Season 044 - Nov 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp_fwkvgt3.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: STABILITY
+  p.13: BLESSING
+  p.22: KNOWLEDGE OF THE FATHER
+Title:  A Word in its Season 044 - Nov 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 044 - Nov 2010 (473)\A Word in its Season 044 - Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 045 - Dec - Various.pdf
+Title:  A Word in its Season 045 - Dec 2010
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpnci5fsgs.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE CHANNELS OF GOD'S LOVE
+  p.20: FOUR SISTERS T DAVID BEVERIDGE
+  p.24: NATURAL AND SPIRITUAL FAMILY RELATIONSHIPS
+  p.27: BLESSING THROUGH COMMITTAL
+  p.30: BAPTISED HOUSEHOLDS
+Title:  A Word in its Season 045 - Dec 2010
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 045 - Dec 2010 (470)\A Word in its Season 045 - Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 046 - Jan - Various.pdf
+Title:  A Word in its Season 046 - Jan 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpa_7cnjch.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE PURPOSE OF GOD AND THE WILL OF GOD
+  p.6: CHRIST FOR YOU; YOU FOR CHRIST
+  p.11: BONDMEN AND FRIENDS
+  p.21: ROOTS
+Title:  A Word in its Season 046 - Jan 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 046 - Jan 2011 (472)\A Word in its Season 046 - Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 047 - Feb - Various.pdf
+Title:  A Word in its Season 047 - Feb 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpilvvzzqg.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: BUILDING A CHRISTIAN HOUSE
+  p.10: OUR SUBSTITUTE
+  p.22: RETAINING IMPRESSSIONS
+  p.26: DANIEL'S CAPTIVITY
+Title:  A Word in its Season 047 - Feb 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 047 - Feb 2011 (471)\A Word in its Season 047 - Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 048 - Mar - Various.pdf
+Title:  A Word in its Season 048 - Mar 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpt7zof2dp.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: RECOVERY
+  p.17: FIRST WORKS
+  p.25: THE WAYS OF GOD
+  p.29: THE MARRIAGE OF THE LAMB
+Title:  A Word in its Season 048 - Mar 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 048 - Mar 2011 (469)\A Word in its Season 048 - Mar - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 049 - Apr - Various.pdf
+Title:  A Word in its Season 049 - Apr 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp_wun8t1h.pdf for bold uppercase paragraphs...
+Found 2 bookmark(s):
+  p.2: RELATIONSHIPS
+  p.21: “ALL THOSE WHO BELIEVE”
+Title:  A Word in its Season 049 - Apr 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 049 - Apr 2011 (468)\A Word in its Season 049 - Apr - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 050 - May - Various.pdf
+Title:  A Word in its Season 050 - May 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpk240g99t.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE BREAKING OF BREAD
+  p.20: LINKS IN THE CHAIN
+  p.26: THE INSTRUCTED
+Title:  A Word in its Season 050 - May 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 050 - May 2011 (467)\A Word in its Season 050 - May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 051 - Jun - Various.pdf
+Title:  A Word in its Season 051 - Jun 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpkmm2g7du.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: GOD'S FEELINGS
+  p.20: TRUE GREATNESS
+  p.21: OUR PATRON
+  p.30: THE CONSUMMATION OF THE AGES
+Title:  A Word in its Season 051 - Jun 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 051 - Jun 2011 (466)\A Word in its Season 051 - Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 052 - Jul - Various.pdf
+Title:  A Word in its Season 052 - Jul 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpzvs8qpaf.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: GOD'S SPEAKING
+  p.21: STABILITY AND SUBSTANCE
+  p.23: “THE GOD OF JACOB FOR HIS HELP”
+  p.26: “IN HIS OWN GENERATION”
+  p.30: CHRIST - OUR FOOD AND LIFE
+Title:  A Word in its Season 052 - Jul 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 052 - Jul 2011 (464)\A Word in its Season 052 - Jul - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 053 - Aug - Various.pdf
+Title:  A Word in its Season 053 - Aug 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpqsvs5mz5.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE GLORY OF THE LORD
+  p.18: PHILIP OF BETHSAIDA
+  p.25: CLAIMS
+Title:  A Word in its Season 053 - Aug 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 053 - Aug 2011 (465)\A Word in its Season 053 - Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 054 - Sep - Various.pdf
+Title:  A Word in its Season 054 - Sep 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpuzsbfcpw.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: PEACE
+  p.11: A SACRIFICIAL SPIRIT
+  p.21: THE LORD JESUS AS CREATOR AND SAVIOUR
+  p.28: OUR HOPE
+Title:  A Word in its Season 054 - Sep 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 054 - Sep 2011 (462)\A Word in its Season 054 - Sep - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 055 - Oct - Various.pdf
+Title:  A Word in its Season 055 - Oct 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpo4ysd1ru.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: OBEDIENCE
+  p.24: LOOKING STEDFASTLY
+  p.28: ASSEMBLY PERSONNEL
+Title:  A Word in its Season 055 - Oct 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 055 - Oct 2011 (463)\A Word in its Season 055 - Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 056 - Nov - Various.pdf
+Title:  A Word in its Season 056 - Nov 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpo6rxm1ie.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE ACCOMPLISHER
+  p.19: COMING INTO GOD'S HOUSE
+  p.28: IMAGE AND LIKENESS
+  p.31: TABERNACLING
+Title:  A Word in its Season 056 - Nov 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 056 - Nov 2011 (461)\A Word in its Season 056 - Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 057 - Dec - Various.pdf
+Title:  A Word in its Season 057 - Dec 2011
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp94y4oihw.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: GOD'S DWELLING IN LIGHT
+  p.18: CHRIST'S PLACE IN HEAVEN
+  p.22: TODAY
+Title:  A Word in its Season 057 - Dec 2011
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 057 - Dec 2011 (460)\A Word in its Season 057 - Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 058 - Jan - Various.pdf
+Title:  A Word in its Season 058 - Jan 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpnzxsloki.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: GOD'S ORDER
+  p.15: THE ATTRACTIVENESS OF JESUS
+  p.24: THE INFORMALITY OF LOVE
+  p.27: TWO EFFECTS OF THE LOVE OF CHRIST
+  p.30: BARNABAS
+Title:  A Word in its Season 058 - Jan 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 058 - Jan 2012 (459)\A Word in its Season 058 - Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 059 - Feb - Various.pdf
+Title:  A Word in its Season 059 - Feb 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpesoekyo1.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: COMMITTAL AND FAITHFULNESS
+  p.19: THE SOLES OF THE FEET
+  p.27: A CLOTH WHOLLY OF BLUE
+  p.30: A LACE OF BLUE
+Title:  A Word in its Season 059 - Feb 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 059 - Feb 2012 (458)\A Word in its Season 059 - Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 060 - Mar - Various.pdf
+Title:  A Word in its Season 060 - Mar 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp3q53s7jc.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: FOLLOWING THE ARK
+  p.23: LIFE'S JOURNEY
+  p.29: COMPANIONSHIP
+Title:  A Word in its Season 060 - Mar 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 060 - Mar 2012 (456)\A Word in its Season 060 - Mar - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 061 - Apr - Various.pdf
+Title:  A Word in its Season 061 - Apr 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpsl38qnk6.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: DESCENDING AND ASCENDING
+  p.20: A TURN
+  p.30: CHRIST'S PLACE
+Title:  A Word in its Season 061 - Apr 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 061 - Apr 2012 (455)\A Word in its Season 061 - Apr - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 062 - May - Various.pdf
+Title:  A Word in its Season 062 - May 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpbcbmeili.pdf for bold uppercase paragraphs...
+Found 6 bookmark(s):
+  p.2: LOVE ADAPTING ITSELF TO NEED
+  p.5: THE DIVINE END
+  p.12: ON FIRE FOR CHRIST
+  p.18: JUSTIFIED IN THE POWER OF HIS BLOOD
+  p.26: SOUL PROSPERITY IN DIFFICULT TIMES
+  p.30: THE TWO COVENANTS
+Title:  A Word in its Season 062 - May 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 062 - May 2012 (457)\A Word in its Season 062 - May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 063 - Jun - Various.pdf
+Title:  A Word in its Season 063 - Jun 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpp0b4y9v8.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: FOLLOWING THE LORD
+  p.18: THE GOD OF THE VALLEYS
+  p.27: THE WORKING OF THE BODY
+Title:  A Word in its Season 063 - Jun 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 063 - Jun 2012 (454)\A Word in its Season 063 - Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 064 - Jul - Various.pdf
+Title:  A Word in its Season 064 - Jul 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp3mdkysty.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: “A TIME TO KEEP SILENCE, AND A TIME TO SPEAK”
+  p.11: “WHO IS A GOD LIKE UNTO THEE?”
+  p.18: FOLLOWING
+  p.26: THE ASSEMBLY
+Title:  A Word in its Season 064 - Jul 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 064 - Jul 2012 (453)\A Word in its Season 064 - Jul - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 065 - Aug - Various.pdf
+Title:  A Word in its Season 065 - Aug 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpe_xtoy9j.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: “BELIEVED AND KNOWN”
+  p.19: THE PATTERN AND THE SHEKEL
+  p.28: OUR CIRCUMSTANCES ORDERED OF GOD
+Title:  A Word in its Season 065 - Aug 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 065 - Aug 2012 (452)\A Word in its Season 065 - Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 066 - Sep - Various.pdf
+Title:  A Word in its Season 066 - Sep 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpk2w20xa6.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: REDEEMING THE TIME
+  p.14: “WHO ALONE DOETH WONDROUS THINGS”
+  p.21: NEEDED BY THE LORD
+  p.26: THE NEED FOR CHANGE
+  p.30: THE SPIRIT OF TRUTH
+Title:  A Word in its Season 066 - Sep 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 066 - Sep 2012 (451)\A Word in its Season 066 - Sep - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 067 - Oct - Various.pdf
+Title:  A Word in its Season 067 - Oct 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp8feq73tf.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE GOODNESS OF GOD
+  p.11: “BE OF GOOD COURAGE”
+  p.19: THE PROPHETIC WORD
+  p.29: THE RAPTURE
+Title:  A Word in its Season 067 - Oct 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 067 - Oct 2012 (450)\A Word in its Season 067 - Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 068 - Nov - Various.pdf
+Title:  A Word in its Season 068 - Nov 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpv23jafjg.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE EXALTATION OF CHRIST
+  p.16: ENDS AND BEGINNINGS
+  p.23: TRULY ALONE
+  p.28: “SAVE ONE LOAF”
+  p.30: LEARNING THE CHRIST
+Title:  A Word in its Season 068 - Nov 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 068 - Nov 2012 (449)\A Word in its Season 068 - Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 069 - Dec - Various.pdf
+Title:  A Word in its Season 069 - Dec 2012
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp9y9zkc1t.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: SPIRITUAL LEADERSHIP AMONG GOD'S PEOPLE
+  p.23: WILLINGNESS
+  p.28: HOW GOD HAS WON OUR HEARTS
+Title:  A Word in its Season 069 - Dec 2012
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 069 - Dec 2012 (448)\A Word in its Season 069 - Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 070 - Jan - Various.pdf
+Title:  A Word in its Season 070 - Jan 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp5os3rjn9.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: ARRIVING
+  p.18: OUR HEAVENLY GUIDE
+  p.27: OUR APPRECIATION OF THE LOVE OF JESUS FOR US
+  p.30: “THE PAINS OF DEATH”
+Title:  A Word in its Season 070 - Jan 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 070 - Jan 2013 (447)\A Word in its Season 070 - Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 071 - Feb - Various.pdf
+Title:  A Word in its Season 071 - Feb 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpikdz8rdo.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: DEPENDENCE
+  p.24: THE PRESENCE OF GOD
+  p.32: BACK NUMBERS
+Title:  A Word in its Season 071 - Feb 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 071 - Feb 2013 (446)\A Word in its Season 071 - Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 072 - Mar - Various.pdf
+Title:  A Word in its Season 072 - Mar 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp8gfdv519.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: CALLED TO LEVITICAL SERVICE
+  p.21: GIFTS
+  p.28: THE EPISTLE TO THE EPHESIANS
+Title:  A Word in its Season 072 - Mar 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 072 - Mar 2013 (445)\A Word in its Season 072 - Mar - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 073 - Apr - Various.pdf
+Title:  A Word in its Season 073 - Apr 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmps4ftjog6.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: WHAT THE LORD JESUS HAS BORNE
+  p.19: WAITING
+  p.28: “HEARD BECAUSE OF HIS PIETY”
+Title:  A Word in its Season 073 - Apr 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 073 - Apr 2013 (444)\A Word in its Season 073 - Apr - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 074 - May - Various.pdf
+Title:  A Word in its Season 074 - May 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp_hlzuozp.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: REFUSING, CHOOSING AND ESTEEMING
+  p.11: LIFE AND FRESHNESS
+  p.21: WHAT GOES OVER
+  p.26: DESIRING OUR INHERITANCE
+  p.29: OUR GOD
+Title:  A Word in its Season 074 - May 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 074 - May 2013 (443)\A Word in its Season 074 - May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 075 - Jun - Various.pdf
+Title:  A Word in its Season 075 - Jun 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpb_kuxclk.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: ENCOURAGEMENT
+  p.17: “KEEP YOURSELVES IN THE LOVE OF GOD”
+  p.26: “STRETCHING OUT”
+Title:  A Word in its Season 075 - Jun 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 075 - Jun 2013 (442)\A Word in its Season 075 - Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 076 - Jul - Various.pdf
+Title:  A Word in its Season 076 - Jul 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpob3wpdh2.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: JOY
+  p.20: WINGS
+  p.23: “THE INHERITANCE OF MY FATHERS”
+  p.27: CARE IN THE LOCAL ASSEMBLY
+  p.30: HEWE “AS  IS,  ALSO ARE”
+Title:  A Word in its Season 076 - Jul 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 076 - Jul 2013 (441)\A Word in its Season 076 - Jul - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 077 - Aug - Various.pdf
+Title:  A Word in its Season 077 - Aug 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpccseko0x.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: FOOD IN FAMINES
+  p.12: THE WAY OF REPENTANCE
+  p.19: COMMITTAL AND EXCESS
+  p.28: EDITORS' NOTE
+  p.28: THE SABBATH
+Title:  A Word in its Season 077 - Aug 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 077 - Aug 2013 (440)\A Word in its Season 077 - Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 078 - Sep - Various.pdf
+Title:  A Word in its Season 078 - Sep 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmplz3indco.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE HEM OF HIS GARMENT
+  p.23: THE CHURCH AND OUR PATHWAY
+  p.30: THE PASSOVER
+Title:  A Word in its Season 078 - Sep 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 078 - Sep 2013 (439)\A Word in its Season 078 - Sep - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 079 - Oct - Various.pdf
+Title:  A Word in its Season 079 - Oct 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpxq7gw5qv.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: RESPONSE TO GOD IN SONG
+  p.19: FULL SALVATION
+  p.26: BURDENS
+  p.29: PENTECOST AND THE PRESENCE HERE OF THE HOLY SPIRIT
+Title:  A Word in its Season 079 - Oct 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 079 - Oct 2013 (438)\A Word in its Season 079 - Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 080 - Nov - Various.pdf
+Title:  A Word in its Season 080 - Nov 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpw607jzwg.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE LORD TARRYING
+  p.10: “WHAT SHALL I DO?”
+  p.19: HEAVEN - A REALITY TO US
+  p.27: THE PERSONAL GREATNESS OF CHRIST
+  p.30: AFFLICTION AND JUBILEE
+Title:  A Word in its Season 080 - Nov 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 080 - Nov 2013 (437)\A Word in its Season 080 - Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 081 - Dec - Various.pdf
+Title:  A Word in its Season 081 - Dec 2013
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpekjemr7a.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE GLAD TIDINGS OF THE GLORY OF THE BLESSED GOD
+  p.20: ENDURANCE
+  p.22: JERUSALEM
+  p.25: SECURITY
+  p.29: THE FEAST OF TABERNACLES
+Title:  A Word in its Season 081 - Dec 2013
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 081 - Dec 2013 (436)\A Word in its Season 081 - Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 082 - Jan - Various.pdf
+Title:  A Word in its Season 082 - Jan 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmptf_6z91e.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: ACCESS TO THE FATHER
+  p.19: MODELLING AND IMITATING WHAT IS RIGHT
+  p.28: GOD'S GIVING
+Title:  A Word in its Season 082 - Jan 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 082 - Jan 2014 (435)\A Word in its Season 082 - Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 083 - Feb - Various.pdf
+Title:  A Word in its Season 083 - Feb 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmphttz9m3h.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE FATHER HIMSELF HAS AFFECTION FOR YOU”
+  p.17: PRAYER
+  p.26: FEATURES OF CHRIST FORMED IN THE BELIEVER
+Title:  A Word in its Season 083 - Feb 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 083 - Feb 2014 (434)\A Word in its Season 083 - Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 084 - Mar - Various.pdf
+Title:  A Word in its Season 084 - Mar 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpzc87lrzr.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE KNOWLEDGE OF GOD
+  p.23: WHAT DO WE BEHOLD?
+  p.27: THE BORDERS OF THE LAND
+  p.32: NOTE
+Title:  A Word in its Season 084 - Mar 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 084 - Mar 2014 (433)\A Word in its Season 084 - Mar - Various.pdf
+Done.
+
+//// GOT TO HERE 03/05/2026
+
+============================================================
+Book:   A Word in its Season 085 - Apr - Various.pdf
+Title:  A Word in its Season 085 - Apr 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpjqeaeh92.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE EVENING OBLATION
+  p.18: “SHALL TWO WALK TOGETHER EXCEPT THEY BE AGREED?”
+  p.28: CONFIDING IN THE LORD
+Title:  A Word in its Season 085 - Apr 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 085 - Apr 2014 (432)\A Word in its Season 085 - Apr - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 086 - May - Various.pdf
+Title:  A Word in its Season 086 - May 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpcjbddow5.pdf for bold uppercase paragraphs...
+Found 6 bookmark(s):
+  p.2: HOLDING FAST
+  p.8: GREAT VIEWS
+  p.11: LOOKING ON JESUS
+  p.15: GOD'S SURE FOUNDATION
+  p.24: STABILITY
+  p.30: DIVINE SUPPLY IN CIRCUMSTANCES OF NEED
+Title:  A Word in its Season 086 - May 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 086 - May 2014 (431)\A Word in its Season 086 - May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 087 - Jun - Various.pdf
+Title:  A Word in its Season 087 - Jun 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmptzo_ynnh.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: CHASTENING
+  p.21: THINGS THAT GOD HATES AND LOVES
+  p.29: DISCIPLINE
+Title:  A Word in its Season 087 - Jun 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 087 - Jun 2014 (430)\A Word in its Season 087 - Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 088 - Jul - Various.pdf
+Title:  A Word in its Season 088 - Jul 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpkqj90_14.pdf for bold uppercase paragraphs...
+Found 7 bookmark(s):
+  p.2: “KEEP THY HEART”
+  p.10: PUTTING OFF THE OLD MAN, AND SOWING TO THE SPIRIT
+  p.13: RECOVERY
+  p.18: FAITH, HOPE AND LOVE
+  p.23: READY FOR THE LORD'S COMING
+  p.25: “TO MYSELF”
+  p.27: CLOTHING THAT GOD MAKES
+Title:  A Word in its Season 088 - Jul 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 088 - Jul 2014 (429)\A Word in its Season 088 - Jul - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 089 - Aug - Various.pdf
+Title:  A Word in its Season 089 - Aug 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpsv1vwi9c.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: PSALM 23
+  p.21: THE LIGHT OF LIFE
+  p.29: PUTTING OFF THE OLD MAN, AND SOWING TO THE SPIRIT
+Title:  A Word in its Season 089 - Aug 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 089 - Aug 2014 (428)\A Word in its Season 089 - Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 090 - Sep - Various.pdf
+Title:  A Word in its Season 090 - Sep 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpz05iehqq.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE ACTIVITIES OF THE HOLY SPIRIT
+  p.11: “TO YOU IN THE ASSEMBLIES”
+  p.14: THE PRESERVATION OF LIFE
+  p.21: THE SPIRIT OF THE GLAD TIDINGS
+  p.30: “THE LORD IS MY SHEPHERD”
+Title:  A Word in its Season 090 - Sep 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 090 - Sep 2014 (427)\A Word in its Season 090 - Sep - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 091 - Oct - Various.pdf
+Title:  A Word in its Season 091 - Oct 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp7xt36yz3.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: EATING THE SIN-OFFERING
+  p.23: GOD GLORIFIED
+  p.31: THE MAINTENANCE OF RIGHT CONDITIONS IN OUR LOCALITIES
+Title:  A Word in its Season 091 - Oct 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 091 - Oct 2014 (426)\A Word in its Season 091 - Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 092 - Nov - Various.pdf
+Title:  A Word in its Season 092 - Nov 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp8z6p_qrb.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE HEADSHIP OF CHRIST
+  p.19: WHAT GOD DOES FOR HIMSELF
+  p.27: GATHERING
+  p.32: EDITORS’ NOTE
+Title:  A Word in its Season 092 - Nov 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 092 - Nov 2014 (425)\A Word in its Season 092 - Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 093 - Dec - Various.pdf
+Title:  A Word in its Season 093 - Dec 2014
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp3c34mu3x.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE CHIEF SHEPHERD
+  p.22: PRECIOUSNESS
+  p.30: THE LORD SPEAKING
+Title:  A Word in its Season 093 - Dec 2014
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 093 - Dec 2014 (424)\A Word in its Season 093 - Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 094 - Jan - Various.pdf
+Title:  A Word in its Season 094 - Jan 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpax6skxsy.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE CHILDREN OF GOD, AND HIS WORKS
+  p.19: THE FIRST MAN ADAM, AND THE LAST ADAM
+  p.22: WALKING WITH GOD
+  p.26: THE FATHER'S ACTIVITIES
+  p.30: DEATH WITH CHRIST AND DELIVERANCE
+Title:  A Word in its Season 094 - Jan 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 094 - Jan 2015 (423)\A Word in its Season 094 - Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 095 - Feb - Various.pdf
+Title:  A Word in its Season 095 - Feb 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpmnyvblxd.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE HOLY SPIRIT AND THE KINGDOM
+  p.15: T HE HOLY SPIRIT AND THE BODY
+  p.30: STONES FOR GOD'S HOUSE
+Title:  A Word in its Season 095 - Feb 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 095 - Feb 2015 (422)\A Word in its Season 095 - Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 096 - Mar - Various.pdf
+Title:  A Word in its Season 096 - Mar 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpsijbnc5c.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE OBJECT OF ADJUSTMENT
+  p.20: THE FEAR OF GOD
+  p.25: COMPANIONSHIP WITH CHRIST
+Title:  A Word in its Season 096 - Mar 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 096 - Mar 2015 (420)\A Word in its Season 096 - Mar - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 097 - Apr - Various.pdf
+Title:  A Word in its Season 097 - Apr 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpudcrnskk.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE TRUTH
+  p.11: GOD CALLING
+  p.18: DIGGING WELLS
+  p.27: “THINK ON THESE THINGS”
+  p.30: MEN SECURED FOR GOD'S PLEASURE
+Title:  A Word in its Season 097 - Apr 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 097 - Apr 2015 (421)\A Word in its Season 097 - Apr - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 098 - May - Various.pdf
+Title:  A Word in its Season 098 - May 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmptoz10x9h.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE CROSS OF CHRIST
+  p.21: KEEPING THE CHARGE D C BROWN
+  p.25: THE LORD JESUS COMING
+  p.28: E NCOURAGEMENT
+Title:  A Word in its Season 098 - May 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 098 - May 2015 (419)\A Word in its Season 098 - May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 099 - Jun - Various.pdf
+Title:  A Word in its Season 099 - Jun 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp4mepbw1m.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE BROTHER
+  p.10: THE SUFFERINGS OF CHRIST
+  p.19: JESUS CHRIST IS THE SAME
+  p.21: CHRISTIAN GROWTH
+  p.26: TIME
+Title:  A Word in its Season 099 - Jun 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 099 - Jun 2015 (417)\A Word in its Season 099 - Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 100 - July - Various.pdf
+Title:  A Word in its Season 100 - July 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp8wblb5su.pdf for bold uppercase paragraphs...
+Found 6 bookmark(s):
+  p.2: OBEDIENCE
+  p.8: BEING BROUGHT INTO MORAL ACCORD WITH GOD
+  p.18: THE GREATNESS OF THE ASSEMBLY
+  p.23: BROUGHT TO DAVID
+  p.25: “LOOKING STEDFASTLY ON JESUS”
+  p.28: HEALING
+Title:  A Word in its Season 100 - July 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 100 - July 201 (418)\A Word in its Season 100 - July - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 101 - Aug - Various.pdf
+Title:  A Word in its Season 101 - Aug 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp7zm4y3y9.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE FATHER'S HOUSE
+  p.15: MATURITY IN MANHOOD
+  p.23: RECONCILIATION
+  p.30: ‘LOVE, BY ILL UNTAINTED’
+Title:  A Word in its Season 101 - Aug 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 101 - Aug 2015 (416)\A Word in its Season 101 - Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 102 - Sept - Various.pdf
+Title:  A Word in its Season 102 - Sept 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp55elsir2.pdf for bold uppercase paragraphs...
+Found 2 bookmark(s):
+  p.2: SPIRITUAL REFINEMENT - 1
+  p.18: SPIRITUAL REFINEMENT - 2
+Title:  A Word in its Season 102 - Sept 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 102 - Sept 201 (414)\A Word in its Season 102 - Sept - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 103 - Oct - Various.pdf
+Title:  A Word in its Season 103 - Oct 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpuf8aoyow.pdf for bold uppercase paragraphs...
+Found 6 bookmark(s):
+  p.2: “THE STABILITY OF THY TIMES”
+  p.20: RIGHTEOUSNESS WITHOUT GRACE
+  p.21: THE VALUE OF FAITHFULNESS
+  p.23: THE OPEN TOMB AND THE OPEN HEAVENS
+  p.27: THE COMFORTER AND EARNEST
+  p.30: MAN'S WEAKNESS AND GOD'S POWER
+Title:  A Word in its Season 103 - Oct 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 103 - Oct 2015 (415)\A Word in its Season 103 - Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 104 - Nov - Various.pdf
+Title:  A Word in its Season 104 - Nov 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpomn62gef.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: “BRINGING MANY SONS TO GLORY”
+  p.20: HOLDING FAST
+  p.24: “I KNOW”
+  p.31: LEARNING FROM AFFLICTION
+Title:  A Word in its Season 104 - Nov 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 104 - Nov 2015 (413)\A Word in its Season 104 - Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 105 - Dec - Various.pdf
+Title:  A Word in its Season 105 - Dec 2015
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpmux0x6u3.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: GLORIES GIVEN TO THE LORD
+  p.16: THE RIVER OF GOD'S GRACE
+  p.21: “BLIND, LAME, WITHERED”
+Title:  A Word in its Season 105 - Dec 2015
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 105 - Dec 2015 (411)\A Word in its Season 105 - Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 106 - Jan - Various.pdf
+Title:  A Word in its Season 106 - Jan 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpainot2f3.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: ATTACHMENT TO CHRIST
+  p.19: THE CALL
+  p.26: “JUDGMENT AND MERCY AND FAITH”
+  p.29: ELIJAH AND THE WIDOW OF ZAREPHATH
+Title:  A Word in its Season 106 - Jan 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 106 - Jan 2016 (412)\A Word in its Season 106 - Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 107 - Feb - Various.pdf
+Title:  A Word in its Season 107 - Feb 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp1ijffb3e.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: RESPONSE
+  p.16: BEHOLD THE MAN!
+  p.24: “WHAT YE HAVE HOLD FAST”
+Title:  A Word in its Season 107 - Feb 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 107 - Feb 2016 (410)\A Word in its Season 107 - Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 108 - Mar - Various.pdf
+Title:  A Word in its Season 108 - Mar 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmps3hmb545.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: KNOWING THE ONE WHO IS ABLE
+  p.13: DIVINE FEELINGS AND THEIR EFFECT
+  p.21: “IT IS THE LORD”
+  p.27: THE WAYS OF GOD
+  p.30: GOD'S APPROACH TO MEN
+Title:  A Word in its Season 108 - Mar 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 108 - Mar 2016 (409)\A Word in its Season 108 - Mar - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 109 - Apr - Various.pdf
+Title:  A Word in its Season 109 - Apr 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmplrm9pjko.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: MOVEMENT IN THE SERVICE OF GOD
+  p.15: “YE ARE”
+  p.20: THE WILL OF GOD
+Title:  A Word in its Season 109 - Apr 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 109 - Apr 2016 (408)\A Word in its Season 109 - Apr - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 110 - May - Various.pdf
+Title:  A Word in its Season 110 - May 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpz_lqi0r3.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: “THAT NOTHING MAY BE LOST”
+  p.15: FEATURES OF CHRIST UNFOLDED
+  p.24: “BUT GOD”
+  p.30: TWO PROMISES
+Title:  A Word in its Season 110 - May 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 110 - May 2016 (407)\A Word in its Season 110 - May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 111 - Jun - Various.pdf
+Title:  A Word in its Season 111 - Jun 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp39jrm3un.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE BASKET SET DOWN BEFORE THE ALTAR
+  p.15: THE WORK OF THE LORD
+  p.21: THE ROCK
+  p.30: WORTHINESS
+Title:  A Word in its Season 111 - Jun 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 111 - Jun 2016 (406)\A Word in its Season 111 - Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 112 - Jul - Various.pdf
+Title:  A Word in its Season 112 - Jul 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpm0pthd4u.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE BEARING THAT HEAVEN HAS ON THE DISPENSATION
+  p.21: THE VICTORY OF JESUS
+  p.30: THE CHRISTIAN CIRCLE
+Title:  A Word in its Season 112 - Jul 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 112 - Jul 2016 (405)\A Word in its Season 112 - Jul - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 113 - Aug - Various.pdf
+Title:  A Word in its Season 113 - Aug 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpozs3255p.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: WHAT SHALL WE DO FOR OUR SISTER?
+  p.19: THE PRESENCE OF THE HOLY SPIRIT
+  p.22: THE HOLY SPIRIT AS HELP
+  p.25: THE LORD IS MY SHEPHERD
+  p.29: THE WOMAN OF SYCHAR
+Title:  A Word in its Season 113 - Aug 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 113 - Aug 2016 (404)\A Word in its Season 113 - Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 114 - Sep - Various.pdf
+Title:  A Word in its Season 114 - Sep 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp_5mvg2jq.pdf for bold uppercase paragraphs...
+Found 2 bookmark(s):
+  p.2: THE MAN WHOM GOD HAS APPOINTED
+  p.22: THE KNOWLEDGE OF DIVINE PERSONS
+Title:  A Word in its Season 114 - Sep 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 114 - Sep 2016 (402)\A Word in its Season 114 - Sep - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 115 - Oct - Various.pdf
+Title:  A Word in its Season 115 - Oct 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpi24smduc.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE WALL AND ITS GATES
+  p.14: “NOTHING SHALL BE IMPOSSIBLE WITH GOD”
+  p.22: PRAYER AND THE POWER OF THE SPIRIT
+  p.26: BEING MAINTAINED IN LIFE
+  p.30: SPIRITUAL FOOD
+Title:  A Word in its Season 115 - Oct 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 115 - Oct 2016 (403)\A Word in its Season 115 - Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 116 - Nov - Various.pdf
+Title:  A Word in its Season 116 - Nov 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpfmkad82c.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: PEACE
+  p.21: GOD'S GLORY SHOWN TO ISAIAH AND PAUL
+  p.26: MAINTAINING SPIRITUAL JUDGMENT
+  p.29: LIVING IN THE LOVE OF GOD
+Title:  A Word in its Season 116 - Nov 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 116 - Nov 2016 (401)\A Word in its Season 116 - Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 117 - Dec - Various.pdf
+Title:  A Word in its Season 117 - Dec 2016
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpemyhtpp6.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE LORD'S SUPPER
+  p.20: GRACE AND DISCIPLINE
+  p.23: EXPERIENCE WITH GOD LEADING TO WORSHIP
+Title:  A Word in its Season 117 - Dec 2016
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 117 - Dec 2016 (399)\A Word in its Season 117 - Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 118 - Jan - Various.pdf
+Title:  A Word in its Season 118 - Jan 2017
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpv0brvtnq.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: “THAT THEY MAY BE ALL ONE”
+  p.13: CLOTHING
+  p.18: “COME TO ME”
+  p.24: THE PLOUGHMAN
+  p.29: TREASURE BROUGHT OUT
+Title:  A Word in its Season 118 - Jan 2017
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 118 - Jan 2017 (400)\A Word in its Season 118 - Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 119 - Feb - Various.pdf
+Title:  A Word in its Season 119 - Feb 2017
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpu12a6_f4.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE BLOOD AND FELLOWSHIP
+  p.23: “IT IS CHRIST WHO HAS DIED”
+  p.27: TEARS FOR GOD'S BOTTLE
+Title:  A Word in its Season 119 - Feb 2017
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 119 - Feb 2017 (398)\A Word in its Season 119 - Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 120 - Mar - Various.pdf
+Title:  A Word in its Season 120 - Mar 2017
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpyb1bxoe9.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE TEMPLE OF GOD
+  p.18: THE COMING OF THE LORD
+  p.29: OBEDIENCE, RIGHTEOUSNESS AND PATIENCE
+Title:  A Word in its Season 120 - Mar 2017
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 120 - Mar 2017 (397)\A Word in its Season 120 - Mar - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 133 - Apr - Various.pdf
+Title:  A Word in its Season 133 - Apr 2018
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpdas_yv59.pdf for bold uppercase paragraphs...
+Found 2 bookmark(s):
+  p.2: THE RESURRECTION AND THE LIFE
+  p.26: GOD'S HONOUR FOR CHRIST
+Title:  A Word in its Season 133 - Apr 2018
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 133 - Apr 2018 (384)\A Word in its Season 133 - Apr - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 134 - May - Various.pdf
+Title:  A Word in its Season 134 - May 2018
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmps4wbveix.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: “I AM HE”
+  p.22: SWEETNESS
+  p.24: THE PEOPLE OF GOD
+  p.27: THE SPIRIT'S MEN
+Title:  A Word in its Season 134 - May 2018
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 134 - May 2018 (383)\A Word in its Season 134 - May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 135 - Jun - Various.pdf
+Title:  A Word in its Season 135 - Jun 2018
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpcwfoufcq.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: JUDGED TO BE FAITHFUL
+  p.20: THE PRECIOUS BLOOD OF JESUS
+  p.25: DIVINE LOVE
+Title:  A Word in its Season 135 - Jun 2018
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 135 - Jun 2018 (382)\A Word in its Season 135 - Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 136 - Jul - Various.pdf
+Title:  A Word in its Season 136 - Jul 2018
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpvq4j84x8.pdf for bold uppercase paragraphs...
+Found 2 bookmark(s):
+  p.2: THE ARK
+  p.22: THE LORD JESUS AS PRIEST
+Title:  A Word in its Season 136 - Jul 2018
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 136 - Jul 2018 (381)\A Word in its Season 136 - Jul - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 137 - Aug - Various.pdf
+Title:  A Word in its Season 137 - Aug 2018
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpbt70sfrk.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE COMMITTAL OF THE LORD JESUS
+  p.20: THE DIVINE STANDARD
+  p.24: GIVEN OUT OF HEAVEN
+Title:  A Word in its Season 137 - Aug 2018
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 137 - Aug 2018 (380)\A Word in its Season 137 - Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 138 - Sep - Various.pdf
+Title:  A Word in its Season 138 - Sep 2018
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp_ksf6noq.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: RESURRECTION
+  p.21: PATIENCE
+  p.29: COMFORT
+Title:  A Word in its Season 138 - Sep 2018
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 138 - Sep 2018 (379)\A Word in its Season 138 - Sep - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 139 - Oct - Various.pdf
+Title:  A Word in its Season 139 - Oct 2018
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmptssnkhuf.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: CHRIST AS OUR OBJECT
+  p.19: GOD'S MAN
+  p.28: THE WATCHMAN'S CALL
+Title:  A Word in its Season 139 - Oct 2018
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 139 - Oct 2018 (377)\A Word in its Season 139 - Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 140 - Nov - Various.pdf
+Title:  A Word in its Season 140 - Nov 2018
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpwosdy30_.pdf for bold uppercase paragraphs...
+Found 6 bookmark(s):
+  p.2: BEING CONFORMED TO THE IMAGE OF GOD'S SON
+  p.18: HE “ SHALL SAVE HIS PEOPLE FROM THEIR SINS”
+  p.24: WHAT IS PRECIOUS
+  p.26: THE POWER OF CHRIST'S RESURRECTION
+  p.29: CONTENTMENT
+  p.32: FRAGMENT
+Title:  A Word in its Season 140 - Nov 2018
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 140 - Nov 2018 (376)\A Word in its Season 140 - Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 141 - Dec - Various.pdf
+Title:  A Word in its Season 141 - Dec 2018
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp_lxx3s62.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: DEPENDENCE AND PRAYER
+  p.23: FAITHFUL AMIDST UNFAITHFULNESS
+  p.29: THINGS THE LORD WOULD DELIGHT TO SEE
+  p.29: THE LORD'S CALL
+  p.30: THE SOFT GENTLE VOICE
+Title:  A Word in its Season 141 - Dec 2018
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 141 - Dec 2018 (375)\A Word in its Season 141 - Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 142 - Jan - Various.pdf
+Title:  A Word in its Season 142 - Jan 2019
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp7bbplydq.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE BEGINNING OF ALL THAT SHALL BE FOR GOD'S REST
+  p.20: THE TESTIMONY
+  p.30: STRANGERS BELOW AND CITIZENS ABOVE
+Title:  A Word in its Season 142 - Jan 2019
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 142 - Jan 2019 (374)\A Word in its Season 142 - Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 143 - Feb - Various.pdf
+Title:  A Word in its Season 143 - Feb 2019
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpbkg_q3m8.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: WHAT IS PROFITABLE
+  p.19: THE RIVER OF GOD
+  p.27: UNITY
+Title:  A Word in its Season 143 - Feb 2019
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 143 - Feb 2019 (373)\A Word in its Season 143 - Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 144 - Mar - Various.pdf
+Title:  A Word in its Season 144 - Mar 2019
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpo6luswxd.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: LOVE UNDERLYING PRIVILEGE
+  p.16: TRUSTWORTHINESS
+  p.20: RESTORATION AND REVIVAL
+  p.26: THE LAMB OF GOD
+Title:  A Word in its Season 144 - Mar 2019
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 144 - Mar 2019 (372)\A Word in its Season 144 - Mar - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 145 - Apr - Various.pdf
+Title:  A Word in its Season 145 - Apr 2019
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpngdbuchg.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: HOLINESS - 1
+  p.20: THE JUDGMENT OF GOD
+  p.26: KNOWING THE SON OF GOD
+  p.30: OIL AS A FIGURE OF THE HOLY SPIRIT
+Title:  A Word in its Season 145 - Apr 2019
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 145 - Apr 2019 (364)\A Word in its Season 145 - Apr - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 146 - May - Various.pdf
+Title:  A Word in its Season 146 - May 2019
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp9mh3bl_t.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: HOLINESS  2
+  p.23: DIVINE WILL
+  p.26: “PRESENT WITH THE LORD”
+  p.31: SEARCHING THE SCRIPTURES
+Title:  A Word in its Season 146 - May 2019
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 146 - May 2019 (363)\A Word in its Season 146 - May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 147 - Jun - Various.pdf
+Title:  A Word in its Season 147 - Jun 20`9
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp98hhedt_.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: HOLINESS - 3
+  p.23: THE OBLIGATIONS OF LOVE
+  p.27: “WISDOM IS BETTER”
+  p.29: KEEPING AND PONDERING
+Title:  A Word in its Season 147 - Jun 20`9
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 147 - Jun 20`9 (362)\A Word in its Season 147 - Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 148 - July - Various.pdf
+Title:  A Word in its Season 148 - July 2019
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpwucj9_cl.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: HOLINESS 4
+  p.22: JESUS ENTHRONED
+  p.30: BITTERNESS MADE SWEET
+Title:  A Word in its Season 148 - July 2019
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 148 - July 201 (361)\A Word in its Season 148 - July - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 149 - Aug - Various.pdf
+Title:  A Word in its Season 149 - Aug 2019
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmppo6qusaq.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: ABUNDANCE OF SUPPLY IN THE DIVINELY ORDERED PATH
+  p.18: COMPLETENESS
+  p.22: THE DESIRE OF THE LORD'S HEART
+  p.26: THE MAN OF GOD'S CHOICE
+  p.29: SANCTIFICATION
+Title:  A Word in its Season 149 - Aug 2019
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 149 - Aug 2019 (360)\A Word in its Season 149 - Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 150 - Sept - Various.pdf
+Title:  A Word in its Season 150 - Sept 2019
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp11lxffy_.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: ENRICHMENT AND CONTRIBUTION
+  p.18: FAITH
+  p.24: COMING INTO GOD'S HOUSE
+Title:  A Word in its Season 150 - Sept 2019
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 150 - Sept 201 (359)\A Word in its Season 150 - Sept - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 151 - Oct - Various.pdf
+Title:  A Word in its Season 151 - Oct 2019
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp1qipnj3k.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: SPIRITUAL ORDER
+  p.16: CONSIDERING JESUS AND CONSIDERING ONE ANOTHER
+  p.19: GOD'S LOVE AND BLESSEDNESS FILLING EACH HEART
+  p.29: RESULTS FOR GOD
+Title:  A Word in its Season 151 - Oct 2019
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 151 - Oct 2019 (358)\A Word in its Season 151 - Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 152 - Nov - Various.pdf
+Title:  A Word in its Season 152 - Nov 2019
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp10yurm2d.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: CHRIST AS THE SERVANT
+  p.22: DUNDEE
+  p.23: THE REJECTED ONE
+  p.31: CULLEN
+  p.32: MY SHEPHERD - PSALM 23
+Title:  A Word in its Season 152 - Nov 2019
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 152 - Nov 2019 (356)\A Word in its Season 152 - Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 153 - Dec - Various.pdf
+Title:  A Word in its Season 153 - Dec 2019
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpot320ur0.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: CHRIST AS PRIEST
+  p.23: DUNDEE
+  p.24: A REFUGE AND A HOPE
+Title:  A Word in its Season 153 - Dec 2019
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 153 - Dec 2019 (355)\A Word in its Season 153 - Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 154 - Jan - Various.pdf
+Title:  A Word in its Season 154 - Jan 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpg1058dmu.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE CHILDREN OF GOD
+  p.23: “TO WHOM BELONGEST THOU?”
+  p.29: NUMBERING OUR DAYS
+  p.31: THE WORD OF THE CHRIST
+Title:  A Word in its Season 154 - Jan 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 154 - Jan 2020 (357)\A Word in its Season 154 - Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 155 - Feb - Various.pdf
+Title:  A Word in its Season 155 - Feb 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpq5mfnhf8.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: BRETHREN OF CHRIST
+  p.19: FELLOWSHIP
+  p.25: RENEWING THE MIND
+Title:  A Word in its Season 155 - Feb 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 155 - Feb 2020 (366)\A Word in its Season 155 - Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 156 - Mar - Various.pdf
+Title:  A Word in its Season 156 - Mar 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpyngaefp1.pdf for bold uppercase paragraphs...
+Found 2 bookmark(s):
+  p.2: A WORD IN ITS SEASON SECOND SERIES
+  p.2: CONTENTS
+Title:  A Word in its Season 156 - Mar 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 156 - Mar 2020 (365)\A Word in its Season 156 - Mar - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 157 - Apr - Various.pdf
+Title:  A Word in its Season 157 - Apr 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp6s66wd_v.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: “HIS DEPARTURE”
+  p.17: THE HOLY SPIRIT OF PROMISE
+  p.31: LONDON
+  p.32: TO WHOM SHALL WE GO?
+Title:  A Word in its Season 157 - Apr 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 157 - Apr 2020 (923)\A Word in its Season 157 - Apr - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 158 - May - Various.pdf
+Title:  A Word in its Season 158 - May 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp8xys2q5n.pdf for bold uppercase paragraphs...
+Found 9 bookmark(s):
+  p.2: THE MYSTERY
+  p.16: CALGARY
+  p.17: FIXED AND MAINTAINED
+  p.21: GOD'S WAYS
+  p.25: PEACE AND CONFIDENCE
+  p.29: HAPPY AND WITHOUT ANXIETY
+  p.31: GENEVA
+  p.32: A PRAYER
+  p.32: SUTTON
+Title:  A Word in its Season 158 - May 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 158 - May 2020 (948)\A Word in its Season 158 - May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 159 - Jun - Various.pdf
+Title:  A Word in its Season 159 - Jun 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp0anp8wm9.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: WHAT HAS COME FROM CHRIST'S DEATH
+  p.14: APPRECIATING THE HOLY SPIRIT
+  p.19: DUNDEE
+  p.20: THE PANOPLY OF GOD
+  p.26: THE SPIRIT GLORIFYING CHRIST
+Title:  A Word in its Season 159 - Jun 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 159 - Jun 2020 (1307)\A Word in its Season 159 -Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 160 - Jul - Various.pdf
+Title:  A Word in its Season 160 - Jul 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpv64dhj74.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: GOD AMONG HIS PEOPLE
+  p.19: WHAT THE BELIEVER HAS
+  p.27: RECEIVING THE GOSPEL
+Title:  A Word in its Season 160 - Jul 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 160 - Jul 2020 (1314)\A Word in its Season 160 -Jul - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 161 - Aug - Various.pdf
+Title:  A Word in its Season 161 - Aug 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpptpdfcts.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE ONE SACRIFICE
+  p.13: COUNSEL
+  p.16: WORDS OF TRUTH AND SOBERNESS
+  p.24: JUDGMENT AND MERCY AND FAITH
+  p.29: OUR HEAVENLY PORTION
+Title:  A Word in its Season 161 - Aug 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 161 - Aug 2020 (1312)\A Word in its Season 161 -Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 162- Sept - Various.pdf
+Title:  A Word in its Season 162- Sept 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpqk9rikr_.pdf for bold uppercase paragraphs...
+Found 10 bookmark(s):
+  p.2: DIVINE ORDER
+  p.15: THE WORKMAN AND HIS WORKMEN
+  p.20: LONDON
+  p.21: GOD'S WAYS
+  p.23: SUNBURY
+  p.24: REMEMBER PRISONERS
+  p.26: SUNBURY
+  p.27: “THE LEAST AMONG YOU ALL”
+  p.28: SUNBURY
+  p.29: THE SISTERHOOD
+Title:  A Word in its Season 162- Sept 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 162- Sept 2020 (1313)\A Word in its Season 162- Sept - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 163 - Oct - Various.pdf
+Title:  A Word in its Season 163 - Oct 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmppfcf47t8.pdf for bold uppercase paragraphs...
+Found 11 bookmark(s):
+  p.2: THE SHEWBREAD
+  p.14: ABERDEEN, IDAHO
+  p.15: VICTORY BY OUR LORD JESUS CHRIST
+  p.17: DUNDEE
+  p.18: THE SHEPHERD
+  p.21: DUNDEE
+  p.22: VICTORY
+  p.25: THE LORD'S DESIRES
+  p.28: SUNBURY
+  p.29: SHARING THE FATHER'S DELIGHT IN CHRIST
+  p.32: ABERDEEN
+Title:  A Word in its Season 163 - Oct 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 163 - Oct 2020 (1354)\A Word in its Season 163 -Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 164 - Nov - Various.pdf
+Title:  A Word in its Season 164 - Nov 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmprb8cmm4t.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: CHARACTERISTICS FOUND IN JOHN
+  p.16: SUNBURY
+  p.17: THE RADIANCY OF THE GLAD TIDINGS
+  p.25: THE CROSS OF OUR LORD JESUS CHRIST
+Title:  A Word in its Season 164 - Nov 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 164 - Nov 2020 (1355)\A Word in its Season 164 -Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 165 - Dec - Various.pdf
+Title:  A Word in its Season 165 - Dec 2020
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpq1y2veas.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: GOD'S WAYS AND HIS PRAISE
+  p.21: PRAISE FROM WEAKNESS
+  p.27: PERSONS WHO ARE BLESSED
+  p.30: THE LORD RESTORING
+Title:  A Word in its Season 165 - Dec 2020
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 165 - Dec 2020 (1352)\A Word in its Season 165 -Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 166 - Jan - Various.pdf
+Title:  A Word in its Season 166 - Jan 2021
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpghil7w8n.pdf for bold uppercase paragraphs...
+Found 6 bookmark(s):
+  p.2: HEBREWS 10
+  p.14: EDINBURGH
+  p.15: SUFFERING
+  p.22: SUNBURY
+  p.23: FOOD FOR RECOVERY
+  p.28: BUILDING AND WHAT IT PRODUCES
+Title:  A Word in its Season 166 - Jan 2021
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 166 - Jan 2021 (1353)\A Word in its Season 166 -Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 167 - Feb - Various.pdf
+Title:  A Word in its Season 167 - Feb 2021
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpzainl6o1.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE WORD OF THE CROSS
+  p.14: A LITTLE CHILD IN THE MIDST
+  p.18: GLAD TIDINGS AND GOOD TIDINGS
+  p.24: KIRKCALDY
+  p.25: THE MEDIATOR
+Title:  A Word in its Season 167 - Feb 2021
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 167 - Feb 2021 (1404)\A Word in its Season 167 -Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 168 - Mar - Various.pdf
+Title:  A Word in its Season 168 - Mar 2021
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpljw0oan8.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: A LIGHT OUT OF HEAVEN
+  p.9: THE GLORY OF GOD
+  p.17: THE LORD'S PRESENCE
+  p.29: WHAT IS IMPORTANT?
+Title:  A Word in its Season 168 - Mar 2021
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 168 - Mar 2021 (1403)\A Word in its Season 168 -Mar - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 169 - Apr - Various.pdf
+Title:  A Word in its Season 169 - Apr 2021
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpcxmfnm9m.pdf for bold uppercase paragraphs...
+Found 6 bookmark(s):
+  p.2: LOVE
+  p.4: PREPARATION
+  p.7: MARRIAGE IN THE LORD
+  p.11: THE SUFFERINGS OF JESUS
+  p.20: “CONFORMED TO THE IMAGE OF HIS SON”
+  p.28: WITH CHRIST
+Title:  A Word in its Season 169 - Apr 2021
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 169 - Apr 2021 (1427)\A Word in its Season 169 -Apr - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 171 - Jun - Various.pdf
+Title:  A Word in its Season 171 - Jun 2021
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp2e5hysgk.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: JOHN 1
+  p.11: EDINBURGH
+  p.12: THE LONGINGS OF JESUS
+  p.18: THE MAN OF GOD'S CHOICE
+  p.23: GOD'S VIEW
+Title:  A Word in its Season 171 - Jun 2021
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 171 - Jun 2021 (1424)\A Word in its Season 171 -Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 172 - Jul - Various.pdf
+Title:  A Word in its Season 172 - Jul 2021
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpgj_ur84q.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE GLAD TIDINGS OF JESUS
+  p.10: “MY PEACE” AND “MY JOY”
+  p.20: A JUST GOD AND A SAVIOUR
+  p.26: DIVINELY APPOINTED RESTRICTIONS
+Title:  A Word in its Season 172 - Jul 2021
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 172 - Jul 2021 (1423)\A Word in its Season 172 -Jul - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 173 - Aug - Various.pdf
+Title:  A Word in its Season 173 - Aug 2021
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpyybu9g8q.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: REVIVAL
+  p.20: THE BLOOD OF JESUS
+  p.28: THE BLOOD OF JESUS CHRIST - WHAT ARE ITS USES AND APPLICATIONS BY THE SPIRIT IN SCRIPTURE?
+  p.30: MADE PERFECT THROUGH SUFFERING
+Title:  A Word in its Season 173 - Aug 2021
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 173 - Aug 2021 (1422)\A Word in its Season 173 -Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 174 - Sep - Various.pdf
+Title:  A Word in its Season 174 - Sep 2021
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpzd8ipeq4.pdf for bold uppercase paragraphs...
+Found 7 bookmark(s):
+  p.2: MEASURABLE PROGRESS
+  p.11: THE GLORY OF THE LORD JESUS
+  p.15: THE SERVICE OF THE SPIRIT
+  p.17: THE LOVE OF THE SPIRIT
+  p.20: TWO NIGHT SCENES
+  p.25: GRIMSBY
+  p.26: GOD'S ANSWER FOR MAN
+Title:  A Word in its Season 174 - Sep 2021
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 174 - Sep 2021 (1425)\A Word in its Season 174 -Sep - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 175 - Oct - Various.pdf
+Title:  A Word in its Season 175 - Oct 2021
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpi9sizws2.pdf for bold uppercase paragraphs...
+Found 6 bookmark(s):
+  p.2: JOHN 16
+  p.13: LOOKING FORWARD
+  p.14: PRESENTING OUR BODIES
+  p.17: “JEHOVAH HIS GOD”
+  p.21: GOD WORKING
+  p.28: CHANGING AND CHANGELESS
+Title:  A Word in its Season 175 - Oct 2021
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 175 - Oct 2021 (1429)\A Word in its Season 175 -Oct - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 176 - Nov - Various.pdf
+Title:  A Word in its Season 176 - Nov 2021
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpy_x2x5y6.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: VESSELS FOR GOD'S HOUSE
+  p.10: GRIMSBY
+  p.11: THE SETTING OF THE LORD'S SUPPER
+  p.27: LOWLINESS AND MEEKNESS
+  p.30: FOOD
+Title:  A Word in its Season 176 - Nov 2021
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 176 - Nov 2021 (1428)\A Word in its Season 176 -Nov - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 177 - Dec - Various.pdf
+Title:  A Word in its Season 177 - Dec 2021
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpl5ctm60f.pdf for bold uppercase paragraphs...
+Found 6 bookmark(s):
+  p.2: THE RADIANCY OF THE GLAD TIDINGS
+  p.5: GOD'S PLAN
+  p.11: THE BLOOD OF JESUS
+  p.19: CHRIST AT SYCHAR'S WELL
+  p.26: GOD'S GREAT THOUGHTS
+  p.32: THE PRESENT PROVISION OF GOD
+Title:  A Word in its Season 177 - Dec 2021
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 177 - Dec 2021 (1430)\A Word in its Season 177 -Dec - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 178 - Jan - Various.pdf
+Title:  A Word in its Season 178 - Jan 2022
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpp7wjjhjx.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: JESUS IN GETHSEMANE
+  p.12: JESUS CRUCIFIED
+  p.23: INCREASING APPRECIATION OF CHRIST
+Title:  A Word in its Season 178 - Jan 2022
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 178 - Jan 2022 (1435)\A Word in its Season 178 -Jan - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 179 - Feb - Various.pdf
+Title:  A Word in its Season 179 - Feb 2022
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp3jshfnfe.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: THE SERMON ON THE MOUNT
+  p.17: “THOU GAVEST THEM ME”
+  p.32: THE MOMENT THE PRESSURE BEGAN THE RELIEF BEGAN
+Title:  A Word in its Season 179 - Feb 2022
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 179 - Feb 2022 (1436)\A Word in its Season 179 -Feb - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 180 - Mar - Various.pdf
+Title:  A Word in its Season 180 - Mar 2022
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp1_vpo0ro.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE LAST ADAM
+  p.17: WHAT IS THE ASSEMBLY?
+  p.27: PREPARATION
+  p.31: ‘COME NOW' PAUL MARTIN
+Title:  A Word in its Season 180 - Mar 2022
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 180 - Mar 2022 (1442)\A Word in its Season 180 -Mar - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 181 - Apr - Various.pdf
+Title:  A Word in its Season 181 - Apr 2022
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp6zfi27sd.pdf for bold uppercase paragraphs...
+Found 8 bookmark(s):
+  p.2: WHAT THINK YE CONCERNING THE CHRIST?
+  p.7: ANSWERING TO CHRIST
+  p.11: THE LOVE OF JESUS
+  p.17: NAME OF JESUS
+  p.24: “BEHOLD”
+  p.32: THE SUN AND THE “SUN OF RIGHTEOUSNESS”
+  p.32: PART I
+  p.32: PART II
+Title:  A Word in its Season 181 - Apr 2022
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 181 - Apr 2022 (1454)\A Word in its Season 181 -Apr - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 182 - May - Various.pdf
+Title:  A Word in its Season 182 - May 2022
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp3vxcq7mz.pdf for bold uppercase paragraphs...
+Found 6 bookmark(s):
+  p.2: WINDOWS
+  p.5: A BONDMAN'S FORM
+  p.12: DO YOU KNOW THESE THINGS?
+  p.18: “COME, SEE A MAN”
+  p.26: THE LORD'S PROMISES
+  p.29: FAITH
+Title:  A Word in its Season 182 - May 2022
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 182 - May 2022 (1455)\A Word in its Season 182 -May - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 183 - Jun - Various.pdf
+Title:  A Word in its Season 183 - Jun 2022
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmplojacw2c.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: PIETY
+  p.21: SERVING GOD AND ONE ANOTHER
+  p.30: THE MOUNT OF JEHOVAH
+Title:  A Word in its Season 183 - Jun 2022
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 183 - Jun 2022 (1453)\A Word in its Season 183 -Jun - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 184 - Jul - Various.pdf
+Title:  A Word in its Season 184 - Jul 2022
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpjlm8u632.pdf for bold uppercase paragraphs...
+Found 5 bookmark(s):
+  p.2: THE GLORY OF THE LORD JESUS
+  p.16: THE EXTENSIVENESS OF DIVINE GIVING
+  p.24: INSTRUCTION
+  p.30: CONTINUING
+  p.32: NEARING HOME
+Title:  A Word in its Season 184 - Jul 2022
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 184 - Jul 2022 (1459)\A Word in its Season 184 -Jul - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 185 - Aug - Various.pdf
+Title:  A Word in its Season 185 - Aug 2022
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp_1_cj3m4.pdf for bold uppercase paragraphs...
+Found 3 bookmark(s):
+  p.2: FULL ASSURANCE
+  p.19: THE HEART OF THE BELIEVER
+  p.29: THE WORKINGS OF DIVINE LOVE
+Title:  A Word in its Season 185 - Aug 2022
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 185 - Aug 2022 (1458)\A Word in its Season 185 -Aug - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 186 - Sept - Various.pdf
+Title:  A Word in its Season 186 - Sept 2022
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmp_8k6onar.pdf for bold uppercase paragraphs...
+Found 7 bookmark(s):
+  p.2: GATHERING TOGETHER
+  p.19: GLASGOW
+  p.20: IT IS FINISHED!
+  p.26: “THE SAME”
+  p.29: TOGETHER
+  p.32: GOD'S MESSAGE AND HIS MESSENGER
+  p.32: HENRY C ANSTEY
+Title:  A Word in its Season 186 - Sept 2022
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 186 - Sept 202 (1473)\A Word in its Season 186 -Sept - Various.pdf
+Done.
+
+============================================================
+Book:   A Word in its Season 187 - Oct - Various.pdf
+Title:  A Word in its Season 187 - Oct 2022
+Author: Various
+
+[1/2] Ghostscript: stripping booklet content...
+[2/2] Adding bookmarks (overwriting original)...
+Scanning tmpjz_zgpsz.pdf for bold uppercase paragraphs...
+Found 4 bookmark(s):
+  p.2: THE TESTIMONY
+  p.16: PREPARATION FOR THE LORD'S COMING
+  p.21: ISAIAH SPEAKING OF CHRIST
+  p.28: JESUS IN COMPANY WITH HIS DISCIPLES
+Title:  A Word in its Season 187 - Oct 2022
+Author: Various
+
+Wrote: C:\Users\craig\Calibre Library\Various\A Word in its Season 187 - Oct 2022 (1474)\A Word in its Season 187 -Oct - Various.pdf
+Done.
+
+============================================================
+Complete: 148 succeeded, 0 failed.
+
+C:\Dev\utils\ministry>

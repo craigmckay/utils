@@ -60,7 +60,7 @@ def update_covers():
         JOIN data d ON b.id = d.book AND d.format = 'PDF'
         WHERE s.name = 'Notes of Ministry'
         AND (p.name NOT LIKE 'Brown%' OR p.name IS NULL)
-        AND b.series_index BETWEEN 410 AND 421  
+        AND b.series_index BETWEEN 422 AND 433  
         ORDER BY b.series_index
     """)
 
